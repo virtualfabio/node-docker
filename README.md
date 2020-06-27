@@ -1,6 +1,10 @@
-#node-docker
+#NODE-DOCKER
 
-#comandos
+##Commands
 
 Run `npm init -y`
-Run ` npm i express`
+Run `npm i express`
+
+Created file `server.js`
+
+Created files `Dockerfile` and `.dockerignore`
